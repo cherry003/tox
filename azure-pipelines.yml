@@ -3,7 +3,7 @@ resources:
   repositories:
   - repository: tox
     type: github
-    endpoint: toxdevorg
+    endpoint: cherry
     name: tox-dev/azure-pipelines-template
     ref: master
 
